@@ -1,0 +1,328 @@
+name,price,ncomments,breakfast,cancel,rooms,distance,score_review,stars
+Grand Millennium Beijing,117,1545,FALSE,FALSE,FALSE,5,8.5,5
+JEN Beijing by Shangri-La,178,1017,FALSE,FALSE,FALSE,6,9.1,5
+New World Beijing Hotel,115,2475,FALSE,FALSE,FALSE,2.5,9.1,5
+Hilton Beijing Wangfujing,167,291,FALSE,FALSE,FALSE,1.9,8.4,5
+Grand Hyatt Beijing,165,663,FALSE,FALSE,FALSE,2.1,8.5,5
+Fairmont Beijing,165,584,TRUE,FALSE,FALSE,5,9,5
+Waldorf Astoria Beijing,251,226,FALSE,FALSE,FALSE,2,9.2,5
+The Peninsula Beijing,282,489,FALSE,FALSE,FALSE,2.2,9.4,5
+The Orchid Hotel - Old Town & Drum Tower,102,566,TRUE,FALSE,TRUE,3.2,9.1,4
+Park Plaza Beijing Wangfujing,82,1714,FALSE,FALSE,FALSE,2.5,9,4
+Hilton Beijing,153,191,FALSE,FALSE,FALSE,7,8.1,5
+Shangri-la Hotel Beijing,149,317,FALSE,FALSE,FALSE,7,8.2,5
+Mandarin Oriental Wangfujing  Beijing,412,39,FALSE,FALSE,TRUE,1.7,9.7,5
+Conrad Beijing,180,183,FALSE,FALSE,FALSE,6,8.6,5
+Happy Dragon Saga Hotel Beijing Tian'AnMen Forbidden City,76,9,FALSE,FALSE,FALSE,3,9.3,4
+The Ritz-Carlton Beijing,208,72,FALSE,FALSE,FALSE,7,8.3,5
+The PuXuan Hotel and Spa,278,64,TRUE,FALSE,TRUE,1.9,9.4,5
+Novotel Beijing Peace,89,904,FALSE,FALSE,FALSE,2.1,7.8,4
+Four Seasons Hotel Beijing,252,230,FALSE,FALSE,FALSE,7,9.3,5
+Shangri-la China World Summit Wing  Beijing,267,251,TRUE,FALSE,FALSE,5,9.2,5
+Beijing Hotel NUO Forbidden City,153,520,FALSE,FALSE,FALSE,1.8,8.7,5
+East Beijing,111,360,FALSE,FALSE,FALSE,10,8.8,5
+Wanda Vista Beijing,133,383,FALSE,FALSE,FALSE,6,8.3,5
+DoubleTree by Hilton Beijing,90,221,FALSE,FALSE,FALSE,5,7.4,5
+Shangri-La Kerry Hotel  Beijing,170,508,FALSE,FALSE,FALSE,5,9.1,5
+Park Hyatt Beijing,237,123,FALSE,FALSE,FALSE,5,8.4,5
+Kempinski Hotel Beijing Lufthansa Centre,153,462,FALSE,FALSE,FALSE,7,8.9,5
+Renaissance Beijing Wangfujing Hotel,179,259,FALSE,FALSE,FALSE,1.9,8.9,5
+The Great Wall Hotel Beijing,140,798,FALSE,FALSE,FALSE,7,7.6,5
+Beijing Hesuoyou Hotel,76,0,FALSE,FALSE,FALSE,6,NA,0
+Jianguo Hotel,72,1236,FALSE,FALSE,FALSE,5,8.1,4
+The Ritz-Carlton Beijing  Financial Street,280,70,FALSE,FALSE,FALSE,2.4,8.5,5
+Grand Mercure Beijing Central,97,681,FALSE,FALSE,FALSE,1.9,8.1,4
+Jingshan Garden Hotel,81,434,FALSE,FALSE,FALSE,1.6,9.1,4
+Holiday Inn Express Beijing Dongzhimen,76,2067,TRUE,FALSE,FALSE,5,8.8,4
+The Westin Beijing Chaoyang,223,205,FALSE,FALSE,FALSE,7,8.8,5
+Rosewood Beijing,341,302,FALSE,FALSE,TRUE,6,9,5
+The Westin Beijing Financial Street,178,112,FALSE,FALSE,FALSE,2.4,8.1,5
+Renaissance Beijing Capital Hotel,141,252,FALSE,FALSE,FALSE,6,8.7,5
+Bulgari Hotel  Beijing,473,85,TRUE,FALSE,FALSE,6,8.8,5
+Holiday Inn Beijing Haidian,94,361,FALSE,FALSE,TRUE,10,8.5,4
+Stey-Wangfujing,147,201,FALSE,FALSE,FALSE,2.1,9.1,5
+NUO Hotel Beijing,163,535,FALSE,FALSE,FALSE,10,9.2,5
+The Opposite House,311,352,FALSE,FALSE,FALSE,6,9.2,5
+Crowne Plaza Beijing Zhongguancun,128,199,TRUE,FALSE,FALSE,8,8.2,5
+Hyatt Regency Beijing Wangjing,143,301,FALSE,FALSE,FALSE,11,8.8,5
+The St. Regis Beijing,141,81,FALSE,FALSE,FALSE,4.2,8.4,5
+China National Convention Center Grand Hotel,90,419,FALSE,FALSE,FALSE,9,8.3,5
+Grand Mercure Beijing Dongcheng,101,288,FALSE,FALSE,FALSE,3.5,7.9,5
+Crowne Plaza Beijing Chaoyang U-Town,113,213,FALSE,FALSE,FALSE,4.2,8.3,5
+Grand Metropark Hotel Beijing,91,439,FALSE,FALSE,FALSE,7,8.5,5
+JW Marriott Hotel Beijing Central,148,142,FALSE,FALSE,FALSE,2.5,8.5,5
+Hotel Cote Cour Beijing,99,465,TRUE,FALSE,TRUE,2.8,9.3,5
+Hyatt Regency Beijing Wangjing,143,301,FALSE,FALSE,FALSE,11,8.8,5
+The Imperial Mansion  Beijing - Marriott Executive Apartments,195,273,FALSE,FALSE,TRUE,1.6,8.9,5
+The St. Regis Beijing,141,81,FALSE,FALSE,FALSE,4.2,8.4,5
+Yashi International Aparthotel,91,0,FALSE,FALSE,FALSE,4.3,NA,4
+Happy Dragon City Center Alley Hotel Forbidden City,91,108,TRUE,FALSE,FALSE,3.2,8.4,4
+Shangri-la's China World Hotel  Beijing,148,260,FALSE,FALSE,FALSE,5,8.8,5
+Peking Station Hostel,70,987,FALSE,FALSE,TRUE,2.6,9,2
+BEI Zhaolong Hotel  a Joie de Vivre hotel by Hyatt,163,32,FALSE,FALSE,FALSE,6,9.1,5
+JW Marriott Hotel Beijing,148,99,FALSE,FALSE,FALSE,7,8.6,5
+Park Plaza Beijing Science Park,86,420,FALSE,FALSE,FALSE,8,8.2,4
+Crowne Plaza Beijing Lido,139,296,FALSE,FALSE,FALSE,10,8.7,5
+Beijing Taishan Hotel,98,82,TRUE,FALSE,FALSE,16,7.6,5
+Regent Beijing,163,547,FALSE,FALSE,FALSE,2.4,8.8,5
+Holiday Inn Express Beijing Temple of Heaven,66,457,TRUE,FALSE,FALSE,3.9,8.2,3
+Legendale Hotel Beijing,163,698,FALSE,FALSE,TRUE,2.4,9,5
+Four Points By Sheraton Beijing  Haidian,148,44,FALSE,FALSE,FALSE,11,7.8,5
+Citytel Inn,62,565,FALSE,FALSE,FALSE,1.4,8,3
+Holiday Inn Beijing Chang An West,82,153,FALSE,FALSE,FALSE,10,8.4,4
+Beijing Broadcasting Tower Hotel,84,317,FALSE,FALSE,FALSE,4.5,8.4,4
+Sheraton Grand Beijing Dongcheng Hotel,208,101,FALSE,FALSE,FALSE,6,8.3,5
+Hotel Éclat Beijing,204,478,TRUE,FALSE,FALSE,5,9.3,5
+Beijing Shichahai Shadow Art Performance Hotel,67,564,FALSE,FALSE,TRUE,2.8,8.5,4
+Hotel Éclat Beijing,204,478,TRUE,FALSE,FALSE,5,9.3,5
+Stey Sanlitun Boutique Hotel,193,7,FALSE,FALSE,TRUE,6,10,5
+Holiday Inn Beijing Deshengmen,106,178,FALSE,FALSE,FALSE,4.9,8,4
+Peking Youth Hostel,53,489,FALSE,FALSE,TRUE,2.6,8.5,0
+Beijing Shichahai Shadow Art Performance Hotel,67,564,FALSE,FALSE,TRUE,2.8,8.5,4
+Novotel Beijing Xinqiao,90,1026,FALSE,FALSE,FALSE,2.6,7.8,4
+Hotel Nikko New Century Beijing,101,86,FALSE,FALSE,FALSE,5,7.3,5
+Ming Courtyard,36,687,FALSE,FALSE,TRUE,3.8,7.6,3
+Ritan Hotel Downtown Beijing,95,197,TRUE,FALSE,FALSE,4.5,7.7,5
+Beijing Downtown Travelotel,59,319,FALSE,FALSE,TRUE,2.8,9.4,3
+Grand Metropark Yuantong Hotel Beijing,113,57,FALSE,FALSE,FALSE,3.5,8.2,5
+Mercure Beijing Chang An West,92,55,TRUE,FALSE,TRUE,9,6.7,4
+Crowne Plaza Beijing Sun Palace,146,153,FALSE,FALSE,FALSE,7,8.6,5
+Marco Polo Parkside  Beijing,121,237,FALSE,FALSE,FALSE,10,8.1,5
+Gehua New Century Hotel Beijing,149,38,FALSE,FALSE,FALSE,5,8,4
+Ascott Riverside Garden Beijing,119,87,TRUE,FALSE,FALSE,9,8.3,4
+Lee Garden Service Apartment,123,208,FALSE,FALSE,FALSE,2,8.9,5
+Hilton Beijing Tongzhou,113,0,FALSE,FALSE,FALSE,22,NA,5
+Sofitel Beijing Central,178,94,FALSE,FALSE,FALSE,4,8.1,5
+SonGy Hotel Beijing,117,199,FALSE,FALSE,TRUE,3.2,9.2,0
+Hotel New Otani Chang Fu Gong,114,512,FALSE,FALSE,FALSE,4,8.5,5
+SonGy Hotel Beijing-Drum Tower,128,6,TRUE,FALSE,FALSE,3,9.2,4
+Beijing Heyuan Courtyard Hotel (Forbidden City),100,22,TRUE,FALSE,TRUE,2.8,9.4,5
+Pan Pacific Beijing,199,994,FALSE,FALSE,FALSE,1.8,9.1,5
+CHAO Sanlitun Beijing,228,622,TRUE,FALSE,FALSE,5,9,5
+Guanganmen Grand Metropark Hotel Beijing,90,156,FALSE,FALSE,FALSE,4.2,8.7,4
+Holiday Inn Express Beijing Huacai,84,402,TRUE,FALSE,TRUE,12,8.2,4
+Inner Mongolia Grand Hotel,82,1171,FALSE,FALSE,FALSE,2.6,8.4,4
+Nordic Style Apartment Near Wukesong Stadium And 301 Hospital,178,0,FALSE,FALSE,TRUE,11,NA,0
+Hotel Kapok - Forbidden City,86,676,TRUE,FALSE,FALSE,1.2,8.2,4
+Stey 798 Serviced Apartment Boutique Hotel,163,9,FALSE,FALSE,FALSE,11,9.4,5
+Beijing Post Hotel,67,48,FALSE,FALSE,FALSE,11,7.2,3
+Beijing Marriott Hotel Northeast,170,86,FALSE,FALSE,FALSE,8,8.6,5
+The Presidential Beijing,125,55,FALSE,FALSE,TRUE,3.8,7.6,5
+Star World International Hotel Beijing Sanlitun,86,271,FALSE,FALSE,FALSE,5,8,4
+Xingshe Hotel (Temple of Heaven),51,3,FALSE,FALSE,FALSE,3.1,8.3,4
+Beijing Shangchao Hotel,64,112,FALSE,FALSE,TRUE,7,8.2,0
+Holiday Inn Express Beijing Minzuyuan,77,550,TRUE,FALSE,FALSE,7,7.8,4
+Capital Hotel Beijing,114,439,FALSE,FALSE,FALSE,2.2,8.4,5
+Mercure Beijing Downtown,81,181,FALSE,FALSE,FALSE,7,7.6,4
+ibis Beijing Tiantandongmen Metro Station Hotel,51,329,FALSE,FALSE,FALSE,4.8,8.1,3
+Ascott Raffles City Beijing,183,29,TRUE,FALSE,FALSE,4.5,8.6,5
+Vision Hotel,94,64,FALSE,FALSE,FALSE,7,8.5,5
+Holiday Inn Express Beijing Shijingshan Lakeview,72,6,TRUE,FALSE,FALSE,20,9,3
+Holiday Inn Temple Of Heaven Beijing,87,98,FALSE,FALSE,FALSE,6,7.8,4
+Cours Et Pavillons,350,37,TRUE,FALSE,TRUE,2.7,9.3,5
+Wanda Realm Beijing,84,84,FALSE,FALSE,FALSE,14,8,5
+7Days Premium Beijing Tiananmen Square Branch,42,0,FALSE,FALSE,FALSE,1.6,NA,0
+Jinjiang Inn Beijing Zhongguancun,49,128,FALSE,FALSE,FALSE,10,7.6,3
+Beijing Yanshan Hotel,84,157,FALSE,FALSE,TRUE,8,8.1,4
+West Hotel Dashilan Branch,29,30,FALSE,FALSE,TRUE,2.2,7.1,3
+Beijing Baifuyi Hotel,87,63,FALSE,FALSE,FALSE,5,8.3,5
+Jinglun Hotel Beijing,67,207,FALSE,FALSE,FALSE,5,7.7,4
+Beijing Qianyuan Hotel,89,433,FALSE,FALSE,FALSE,4.2,8.7,5
+Livefortuna Hotel,74,4,FALSE,FALSE,FALSE,4,10,4
+Gracie Art Hotel,254,98,TRUE,FALSE,TRUE,12,8.4,5
+Ariva Beijing West Hotel,152,117,TRUE,FALSE,TRUE,10,7.4,4
+Zhe·Yi Boutique Guesthouse,46,0,FALSE,FALSE,FALSE,4.7,NA,0
+Aojia Art Gallery Apartment 901,48,0,FALSE,FALSE,FALSE,5,NA,0
+Holiday Inn Express Beijing Wangjing,81,164,TRUE,FALSE,FALSE,11,7.4,3
+Artyzen Habitat Dongzhimen Beijing,195,240,FALSE,FALSE,FALSE,5,8.7,5
+Sheraton Beijing Lize Hotel,124,4,FALSE,FALSE,FALSE,8,9.5,4
+<U+300C>First Love<U+300D>Apartment near Sanlitun and Guomao,95,0,FALSE,FALSE,TRUE,6,NA,0
+<U+5317><U+4EAC><U+82B1><U+95F4><U+5802><U+540E><U+6D77><U+9152><U+5E97> VUE Hotel Beijing,230,34,FALSE,FALSE,TRUE,3,8.3,5
+Jianguo Qianmen Beijing,63,188,FALSE,FALSE,TRUE,3.1,7.9,4
+Yibushe Guesthouse,113,35,FALSE,FALSE,TRUE,2.7,8.8,0
+Holiday Inn Beijing Shijingshan Parkview,65,32,FALSE,FALSE,FALSE,15,6.4,4
+Qianmen Courtyard Hotel,57,998,FALSE,FALSE,FALSE,2.4,7.2,3
+<U+3010><U+5F18><U+820D><U+3011><U+5317><U+56DB><U+73AF><U+7CBE><U+88C5><U+4FEE><U+72EC><U+7ACB><U+623F><U+6E90><U+6C11><U+5BBF>,46,0,TRUE,FALSE,FALSE,8,NA,0
+Comfort Inn & Suites Beijing,94,34,FALSE,FALSE,TRUE,6,6.6,4
+Nostalgia Hotel Beijing Confucius Temple,74,323,FALSE,FALSE,TRUE,3.8,8.8,3
+Xingshe Alley Courtyard Hotel Beijing Wangfujing Forbidden City Branch,71,404,FALSE,FALSE,TRUE,3,8.3,4
+Miss Peregrine's Castle In Wudaokou,32,52,FALSE,FALSE,TRUE,9,8.2,0
+United Days Boutique Business Hotel,197,17,TRUE,FALSE,TRUE,5,6.5,4
+James Joyce Coffetel Beijing Gulou street  Nanluoguxiang,82,39,FALSE,FALSE,FALSE,3.5,7.8,4
+Peking Yard Boutique Hotel,135,88,TRUE,FALSE,TRUE,2.9,7.7,0
+Jinjiang Inn - Beijing Changchun Street,42,63,FALSE,FALSE,FALSE,3.3,7.4,2
+Beijing Huihui Home ApartHotel Chang'an Inn Branch,47,43,FALSE,FALSE,TRUE,4.7,5.1,0
+Mercure Beijing Wanshang,59,72,FALSE,FALSE,FALSE,14,7.9,4
+Beijing Jiadu Resort,164,0,TRUE,FALSE,FALSE,54,NA,4
+Beijing Guizhou Hotel,89,217,FALSE,FALSE,TRUE,6,8.2,4
+Holiday Inn Express Beijing Shijingshan Parkview,72,28,TRUE,FALSE,FALSE,20,8.3,3
+Beijing Bingding Holiday Villa,254,7,TRUE,FALSE,TRUE,80,9,0
+7 Days Premium Beijing Tiananmen Branch,51,0,FALSE,FALSE,FALSE,0.5,NA,0
+7Days Inn Beijing Huaxiangqiao New Tiantan Hospital Branch,24,0,FALSE,FALSE,FALSE,9,NA,0
+Hilton Beijing Daxing,147,0,FALSE,FALSE,FALSE,17,NA,5
+Jiu Du Hui Serviced Apartment,73,58,FALSE,FALSE,TRUE,8,7.9,4
+Ruicheng Hotel,51,54,FALSE,FALSE,FALSE,9,7.8,3
+Beijing Xinxiang Yayuan Apartment (Sanlitun),124,56,FALSE,FALSE,TRUE,5,8,0
+Beijing Xihua Hotel,95,103,FALSE,FALSE,FALSE,11,6.9,4
+Aloft Beijing  Haidian,82,26,FALSE,FALSE,FALSE,10,7.3,5
+Jihouse Hotel,91,111,TRUE,FALSE,TRUE,3.6,9,4
+7Days Inn Beijing Liujiayao Station,25,56,FALSE,FALSE,FALSE,6,6.4,2
+Lavande Hotel Beijing Tiananmen Wangfujing Street,72,0,FALSE,FALSE,TRUE,2.5,NA,3
+7Days Premium Beijing Zhongguancun Renmin University Suzhou Street Subway Station Branch,49,0,FALSE,FALSE,FALSE,9,NA,0
+Nostalgia Hotel Temple of Heaven,37,287,FALSE,FALSE,TRUE,5,8.3,3
+The North Garden Hotel Beijing,67,49,FALSE,FALSE,FALSE,1.9,6,4
+Beijing Free Town Apartment Hotel,75,12,FALSE,FALSE,TRUE,6,6.6,3
+Beijing Zhanghe Hotel,39,546,FALSE,FALSE,TRUE,4.5,7.3,3
+Lavande Hotel Beijing Changping Government Street,41,0,FALSE,FALSE,TRUE,36,NA,0
+Metropark Lido Hotel Beijing,130,302,FALSE,FALSE,TRUE,10,7.7,4
+JI Hotel Beijing Guomao,68,15,FALSE,FALSE,FALSE,6,7.1,4
+Tian'an Men Beijing Station Sunshine Apartment,54,0,FALSE,FALSE,FALSE,2.9,NA,0
+JI Hotel Chaoyangmen Beijing,67,35,FALSE,FALSE,TRUE,3.4,8,4
+7Days Premium Beijing International Trade Jinsong Subway Station Branch,37,0,FALSE,FALSE,FALSE,7,NA,0
+Subway home for 8-10 People,160,0,FALSE,FALSE,TRUE,17,NA,0
+GreenTree Inn Beijing East Yizhuang District Second Kechuang Street Express Hotel,24,4,FALSE,FALSE,TRUE,16,7.5,3
+Hanting Express Beijing Xizhimen New,47,19,FALSE,FALSE,FALSE,4.5,7.4,2
+Beijing Lido Place Apartment,127,82,FALSE,FALSE,TRUE,10,8.1,4
+Beijing Hyde Courtyard Hotel,39,815,FALSE,FALSE,TRUE,2.4,7.1,3
+Celebrity International Grand Hotel,136,45,FALSE,FALSE,FALSE,9,7.2,5
+Oakwood Residence Damei Beijing,217,19,TRUE,FALSE,TRUE,11,9,5
+JI Hotel Dongzhimen Beijing,52,99,FALSE,FALSE,FALSE,5,7.3,4
+Xinhai Jin Jiang Hotel,91,18,FALSE,FALSE,FALSE,3,8,5
+Great Wall Four Seasons Hotel,140,0,FALSE,FALSE,TRUE,110,NA,5
+7Days Premium Beijing Madianqiao North Branch,48,0,FALSE,FALSE,FALSE,6,NA,0
+Jinjiang Inn - Beijing Jiuxianqiao,49,23,FALSE,FALSE,TRUE,11,7.8,2
+Beijing Rong Courtyard Boutique Hotel,80,89,FALSE,FALSE,TRUE,2.5,7.9,3
+Yitel (Beijing Head Quarter),68,0,FALSE,FALSE,TRUE,13,NA,0
+Lavande Hotel Beijing Sihui,58,0,FALSE,FALSE,TRUE,10,NA,3
+Jinjiang Inn - Beijing Anzhenli,53,19,FALSE,FALSE,FALSE,6,7.6,2
+GreenTree Inn Beijing Haidian District Xueqing Road Business Hotel,48,3,FALSE,FALSE,FALSE,12,6.9,3
+Beijing Yanqing Shiyuan Renjia No1 Hotel,75,0,FALSE,FALSE,FALSE,70,NA,4
+Beijing XinHuaYuan Hotel,72,351,FALSE,FALSE,TRUE,2.6,7.4,3
+Jinjiang Inn Beijing Qinghua East Gate,37,42,FALSE,FALSE,FALSE,11,6.7,3
+Michael's House Beijing,82,203,FALSE,FALSE,TRUE,4.8,8.9,4
+7Days Premium Beijing Wangjing Nanhu Dongyuan,37,41,FALSE,FALSE,TRUE,11,7.5,2
+King Parkview Hotel,45,241,FALSE,FALSE,FALSE,1.6,6.9,3
+Imperial Courtyard,102,69,FALSE,FALSE,TRUE,3.9,8.6,3
+Ji Hotel (Beijing Xidan),60,0,FALSE,FALSE,TRUE,1.3,NA,0
+Home Inn Beijing National Aquatics Centre,70,17,FALSE,FALSE,TRUE,9,6.6,2
+7Days Inn Premium Beijing Chaoyangmen,34,123,FALSE,FALSE,FALSE,3,6.8,2
+JI Hotel Dongdan Beijing,72,17,FALSE,FALSE,FALSE,2.5,7.7,4
+Qianmen Hostel (Beijing Tian'anmen Dashilan),51,86,FALSE,FALSE,TRUE,2.1,7.6,2
+Lavande Hotel Beijing Guanganmen Daguan Garden,77,0,FALSE,FALSE,TRUE,4.7,NA,0
+GreenTree Alliance Beijing Asian Sports Village Hotel,47,5,FALSE,FALSE,TRUE,10,9.5,3
+GreenTree Inn Beijing Chaoyang Shilihe Antique City Express Hotel,29,49,FALSE,FALSE,TRUE,8,7.2,3
+Beijing Wangfubieyuan Cultural Hotel,182,0,TRUE,FALSE,FALSE,2.9,NA,5
+Qinfu Hotel Beijing Nanluogu Lane Houhai,72,6,FALSE,FALSE,TRUE,2.3,9.1,4
+Hanting Youjia Hotel (Beijing North Taipingqiao),65,0,FALSE,FALSE,FALSE,6,NA,0
+Yi Chao Service Apartment,75,43,FALSE,FALSE,TRUE,5,8.3,4
+Orange Select Hotel(Beijing New Ditan Hospital),53,0,FALSE,FALSE,FALSE,16,NA,0
+Meet Again Guesthouse(Shu shan),214,0,TRUE,FALSE,FALSE,13,NA,0
+Crystal Theme Hotel,49,0,FALSE,FALSE,TRUE,7,NA,0
+Lavande Hotels·Beijing South Railway Station Yangqiao,64,0,FALSE,FALSE,FALSE,6,NA,0
+Beijing Jingyun Linli Apartment,126,0,FALSE,FALSE,FALSE,3.5,NA,0
+7Days Premium Beijing Dongba Branch,23,0,FALSE,FALSE,FALSE,15,NA,0
+7Days Premium Beijing Xidan Lingjing Hutong Subway Station Branch,44,0,FALSE,FALSE,FALSE,1.2,NA,0
+Hanting Express Hotel Beijing Wangjing Huajiadi,52,9,FALSE,FALSE,FALSE,10,7.7,2
+Poly Plaza Hotel,111,66,FALSE,FALSE,FALSE,4.4,8.1,4
+Jinjiang Inn Beijing Olympics Park,51,29,FALSE,FALSE,TRUE,13,7.8,3
+Kun Tai Hotel,151,30,FALSE,FALSE,FALSE,13,8.2,5
+Greentree Alliance Beijing West Railway Station Zhanqian North Square Hotel,30,41,FALSE,FALSE,TRUE,5,6.3,3
+Xinjinshan Yijia Condo Hotel,63,0,FALSE,FALSE,TRUE,4,NA,0
+Fengguyuan Boutique Hotel,75,0,FALSE,FALSE,FALSE,3.2,NA,4
+TaiYue Suites Beijing,114,138,FALSE,FALSE,TRUE,5,7.4,4
+Ibis Beijing Guanzhuang Changying Middle Road Hotel,35,26,FALSE,FALSE,TRUE,17,7.7,1
+Hanting Express Beijing Yaojiayuan Road,35,12,FALSE,FALSE,FALSE,9,7.8,0
+JI Hotel 798 Art Zone Beijing,58,22,FALSE,FALSE,FALSE,12,7.4,4
+Lavande Hotel Beijing Changping Stadium,34,0,FALSE,FALSE,FALSE,36,NA,0
+Spring Time Hostel,47,0,FALSE,FALSE,TRUE,2.5,NA,2
+Hanting Express Beijing Zizhu Bridge,47,5,FALSE,FALSE,TRUE,8,6.5,2
+Lavande Hotel Beijing Asian Games Village,73,0,FALSE,FALSE,FALSE,10,NA,3
+Bestay Hotel Express Beijing Temple of Heaven,26,525,FALSE,FALSE,TRUE,4.3,6.6,0
+Peking Garden Boutique Hotel,89,104,TRUE,FALSE,TRUE,1.9,8.5,2
+Guangyao Service Apartment Beijing Ritan,184,213,FALSE,FALSE,TRUE,4.3,8.4,5
+China Sunshine Apartment Dacheng,57,17,FALSE,FALSE,FALSE,8,8.1,0
+The Sandalwood Beijing Marriott Executive Apartments,185,6,FALSE,FALSE,TRUE,11,8.5,5
+Xana Hotelle Beijing Tianqiao,63,0,FALSE,FALSE,FALSE,3.5,NA,3
+Beijing RJ Brown City Center Hotel,164,1465,FALSE,FALSE,TRUE,3.7,7.5,3
+Three-Bedroom Apartment Next to Wangjing Metro Station,129,6,FALSE,FALSE,TRUE,11,8.8,0
+Man Xin Hotel Beijing West Railway Station,83,6,FALSE,FALSE,FALSE,7,9.3,4
+7Days Inn Beijing Yizhuang Development Zone,23,0,FALSE,FALSE,FALSE,16,NA,2
+7Days Inn Beijing Yizhuang Bridge,18,0,FALSE,FALSE,FALSE,13,NA,0
+The Palace Service Apartment Beijing,88,78,FALSE,FALSE,FALSE,5,6.8,4
+Home Inn Beijing International Exhibition Sanyuanqiao,48,11,FALSE,FALSE,FALSE,8,7.6,2
+Days Inn Forbidden City Beijing,102,317,FALSE,FALSE,FALSE,1.4,6.9,3
+7Days Premium Beijing Sanlitun Tuanjiehu Subway Station Branch,45,0,FALSE,FALSE,FALSE,7,NA,0
+Traveler Inn-Hepingli,68,27,FALSE,FALSE,FALSE,5,8.2,3
+GreenTree Inn Beijing Dongcheng District Wangfujin South Luogu Lane Houhai Express Hotel,53,0,FALSE,FALSE,TRUE,2.6,NA,3
+Lia Beijing Hotel,101,24,TRUE,FALSE,FALSE,2.9,7,5
+Beijing Chaoyang·Beijing National Stadium· Locals Apartment 00162190,148,0,TRUE,FALSE,TRUE,8,NA,0
+CitiGO House Shangdi Beijing,82,92,FALSE,FALSE,FALSE,15,7.6,4
+Hutong Courtyard Beijing,153,0,FALSE,FALSE,TRUE,2.3,NA,4
+Jinjiang Inn - Beijing Olympic Village Datun Road,48,45,FALSE,FALSE,TRUE,10,7.9,2
+Beijing Yasiming Haisheng Service Apartment,69,58,FALSE,FALSE,TRUE,5,8.6,3
+Beijing Red Hotel,97,86,FALSE,FALSE,TRUE,5,7.8,3
+Airport Linkong Wise Hotel,56,90,FALSE,FALSE,FALSE,23,5.6,3
+Greentree Inn Beijing Guangming Bridge Express Apartment Hotel,34,90,FALSE,FALSE,TRUE,6,6.4,3
+Jinjiang Inn Beijing Laiguangying,51,20,FALSE,FALSE,FALSE,13,7.1,3
+Beijing GOTO Modern Hotel - Qianmen,32,118,FALSE,FALSE,TRUE,2.7,7.5,3
+7Days Premium Beijing South Railway Station Jiaomen East Subway Station Branch,32,0,FALSE,FALSE,TRUE,6,NA,0
+Citycourt Hotel,80,90,FALSE,FALSE,TRUE,3.5,7.7,3
+Sanlitun Mark Jacobs Boutique Hotel,74,74,FALSE,FALSE,TRUE,5,7.4,4
+Ibis Beijing Changping Metro Station Hotel,37,0,FALSE,FALSE,TRUE,36,NA,1
+7Days Premium Beijing Wangjing,39,12,FALSE,FALSE,FALSE,11,7.3,2
+7Days Premium Beijing Happy Valley Wangsiyingqiao Branch,23,0,FALSE,FALSE,FALSE,13,NA,0
+Jinjiang Inn Beijing Fengtai East Avenue Railway Station,33,44,FALSE,FALSE,TRUE,10,8.1,3
+Beijing Yun-zen Jinling Lotus Hotel,99,6,FALSE,FALSE,FALSE,6,7.3,5
+7Days Inn Premium Beijing International Trade,25,18,FALSE,FALSE,FALSE,7,5.3,2
+Xiyuan Hotel,98,138,FALSE,FALSE,FALSE,5,7.1,5
+Jinjiang Inn Beijing East Lianshi Road,39,13,FALSE,FALSE,FALSE,13,7.8,3
+Hanting Youjia Hotel (Beijing Guomao Jinsong Metro Station),46,0,FALSE,FALSE,FALSE,7,NA,0
+Beijing Tiandi Huadian Hotel Apartment Youlehui Branch,58,70,FALSE,FALSE,FALSE,11,7.5,3
+Hanting Express Beijing Advanced Business Park,45,0,FALSE,FALSE,FALSE,13,NA,2
+Lavande Hotel Beijing West Railway Station South Square,64,0,FALSE,FALSE,FALSE,5,NA,0
+Beijing Gongmei Blue Peacock Business Hotel,33,4,TRUE,FALSE,FALSE,17,6.1,3
+Beijing Siheju Courtyard Hotel,64,249,FALSE,FALSE,TRUE,2.1,7.4,4
+Jay&Susu's House,23,7,FALSE,FALSE,TRUE,20,9.6,0
+CBD Chinese Style Homestay,64,14,TRUE,FALSE,TRUE,10,9.8,0
+Jinjiang Inn - Beijing Houhai,42,57,FALSE,FALSE,TRUE,3.5,6.3,2
+7Days Inn Beijing Beishatan,31,40,FALSE,FALSE,FALSE,10,6.6,2
+Jinjiang Inn Beijing Zhushikou,31,23,FALSE,FALSE,TRUE,3,7.4,3
+7Days Inn Beijing Panjiayuan,25,39,FALSE,FALSE,FALSE,6,6.4,2
+Jinjiang Inn Beijing Jiuxian Bridge Electronics City,36,8,FALSE,FALSE,TRUE,11,8.8,3
+Beijing Sicily Hotel,27,91,FALSE,FALSE,FALSE,5,7.4,2
+Hanting Express Beijing Wangjing Technology Park New Branch,34,3,FALSE,FALSE,TRUE,12,6.4,2
+Hanting Express Beijing New Fuchengmen,72,9,FALSE,FALSE,FALSE,3.5,7,2
+Beijing Jingcheng Hotel,140,0,FALSE,FALSE,TRUE,15,NA,5
+Jinjiang Inn Beijing Gucheng North Road,36,17,FALSE,FALSE,FALSE,17,8.1,3
+7Days Premium Beijing Anzhen Hospital Huangsi Avenue Branch,23,0,FALSE,FALSE,FALSE,6,NA,0
+7Days Premium Beijing Majuqiao Liandong U Valley Branch,34,0,FALSE,FALSE,FALSE,23,NA,0
+7Days Premium Beijing Fengtai South Road Subway Station Wumei Market Branch,31,0,FALSE,FALSE,TRUE,10,NA,0
+Beijing Kaijun Hotel (Liupukang Branch),58,0,FALSE,FALSE,FALSE,4.2,NA,0
+GreenTree Inn Beijing Xicheng District Caishikou Express Hotel,49,11,FALSE,FALSE,TRUE,2.5,7.7,3
+Beijing·Xicheng·Taoranting·Tiantan,97,0,FALSE,FALSE,TRUE,3.9,NA,0
+Beijing Changping·Wudaokou·,124,0,FALSE,FALSE,TRUE,18,NA,0
+Beijing Haidian · Zhichun Li ·,121,0,FALSE,FALSE,TRUE,8,NA,0
+Haoyang Goodnight Hotel (Beijing Tian'anmen Square Branch),127,0,FALSE,FALSE,TRUE,1.7,NA,0
+Manxin Hotel Beijing Zhushikou,254,0,FALSE,FALSE,FALSE,3,NA,5
+Holiday Inn Express Beijing Airport Zone,62,177,TRUE,FALSE,FALSE,16,8.2,3
+Beijing Haidian District Qinghua University,122,0,FALSE,FALSE,TRUE,11,NA,0
+Beijing Fengtai Mu Xiyuan subway station,114,0,FALSE,FALSE,TRUE,6,NA,0
+Huguosi Hotel,56,42,FALSE,FALSE,FALSE,2.8,8.2,2
+Beijing Yinxingshu Apartment,80,42,FALSE,FALSE,TRUE,7,7,3
+Mr Xin‘s Apartment,104,0,FALSE,FALSE,FALSE,10,NA,0
+Beijing Dong Chang'an Hotel,48,86,FALSE,FALSE,FALSE,5,5.7,3
+Beijing 5L Hotel,75,59,FALSE,FALSE,FALSE,5,7.2,4
+Beijing Mushage Boya Hotel,1119,0,FALSE,FALSE,TRUE,13,NA,4
+Beijing Chenghui Business Hotel,141,0,FALSE,FALSE,TRUE,8,NA,3
+Beijing Dongcheng·Tiananmen Square· Locals Apartment 00114060,113,0,FALSE,FALSE,TRUE,4.2,NA,0
+GreenTree Inn BeiJing Haidian District QingHeqiao Business Hotel,42,27,FALSE,FALSE,FALSE,14,6.8,3
+LOCALS·Beijingchaoyangqu·Shilihe·Locals Apartment·00185930,119,0,FALSE,FALSE,TRUE,8,NA,0
+Beijing Haidian ·Zhongguancun·renmingdaxue·,172,0,FALSE,FALSE,FALSE,9,NA,0
+Beijing Chaoyang·Beijing National Stadium· Locals Apartment 00137460,123,0,TRUE,FALSE,TRUE,15,NA,0
+Beijing Chaoyang·Happy Valley·,151,0,TRUE,FALSE,FALSE,9,NA,0
+Jinjiang Inn Beijing Happy Valley Nanlouzizhuang Subway Station,37,9,FALSE,FALSE,TRUE,10,6.3,3
+Beijing Chaoyang·Joy City· Locals Apartment 00173810,89,0,TRUE,FALSE,TRUE,10,NA,0
+Beijing Youth Road  Passenger Boarding House ,145,0,FALSE,FALSE,TRUE,10,NA,0
+Aerotel Beijing Daxing International Airport,427,38,TRUE,FALSE,FALSE,44,6.6,4
+P.Loft Youth Hostel,20,100,FALSE,FALSE,FALSE,4.4,7,2
+Floral Hotel Xianju Chanting Great Wall Branch,171,0,TRUE,FALSE,FALSE,59,NA,4
