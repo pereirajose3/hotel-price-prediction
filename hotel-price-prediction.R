@@ -1,24 +1,24 @@
-library(VIM) ##Para visualização e imputação de valores omissos (KNN imputation )
-library(ggplot2) #Para visualização de dados
-library(purrr) #Para usar vetores 
-library(tidyr) #estrutura  de dados 
-library(psych) #para graficos
-library(e1071)# para calcular Skewness
-library(neuralnet)#para redes neuronais 
-library(MASS)# Para a regressao linear multipla 
-library(reshape2) #transformar dados  
-library(car) #para regressão 
-library(caret)#para validaçao cruzada
-library(Metrics)#medidas de performance de modelos
-library(partykit)#Para realizar arvores de decisão 
-library(rpart)#Para realizar arvores de decisão 
-library(rpart.plot) #Para realizar arvores de decisão 
-library(caret)# Para modelação 
-library(dplyr)# Para manipulação de dados
-library(plyr) # para mapvalues() function 
-library(corrplot)#para fazer gráfico de correlações
-library(cowplot)# grid plot
-library(gbm) # grafico de importancia de variaveis 
+library(VIM) ##Viewing and imputing omitted values (KNN imputation )
+library(ggplot2) #Data visualization
+library(purrr) #Use vectors
+library(tidyr) #Data structures
+library(psych) #Graphics
+library(e1071)# Calculate skewness
+library(neuralnet)#Use neural networks 
+library(MASS)# For multiple linear regression
+library(reshape2) #transform data 
+library(car) # Use Regression
+library(caret)#Use cross-validation
+library(Metrics)#Use decision trees
+library(partykit)#Use decision trees 
+library(rpart)#Use decision trees 
+library(rpart.plot) #Use decision trees  
+library(caret)# For modeling 
+library(dplyr)# For data manipulation
+library(plyr) # Mapvalues() function 
+library(corrplot)#Correlation chart
+library(cowplot)#Grid plot
+library(gbm) #Importance of variables  chart
 
 
 df<-read.csv('df_Pequim.csv',header = TRUE, sep=',',dec = '.')
@@ -26,86 +26,80 @@ df<-read.csv('df_Pequim.csv',header = TRUE, sep=',',dec = '.')
 data<-df
 
 
-#Dimensão  do dataset 
+#Dataset dimension 
 dim(data)
 
-#Nome das variáveis
+#Variables Names
 names(data)
 
-#Visualizar as primeiras 6 linhas 
+#Preview the first 6 lines 
 head(data)
 
-#Remover a variável nome de Hotel
+#Remove variable Hotel Name
 data<-data[,-1]
 
-#Visualizar o tipo das variáveis
+#View type of variables
 str(data)
 
-#Visualizar valores descritivos das variáveis
+#View variables descriptive values
 summary(data)
 
-#Visualizar novamente valores descritivos das variáveis
-summary(data)
-
-#converter as variáveis logicas para 0 e 1 uma vez que algoritmos de aprendizagem automática lidam melhore com valores numéricos. 
+#Convert logical variables to 0 and 1 since machine learning algorithms deal better with numerical values.
 data$cancel<-data$cancel*1
 data$rooms<-data$rooms*1
 data$breakfast<-data$breakfast*1
 
-#Histograma de todas as variáveis numéricas
+#Histogram of all numeric variables
 data[-c(3,4,5)] %>%
   keep(is.numeric) %>% 
   gather() %>% 
   ggplot(aes(value)) +
   facet_wrap(~ key, scales = "free") +
   geom_histogram()
-#75 linhas foram removidas no histograma de numero de comentários, devido aos dados omissos
-#Perante uma primeira analise dos histogramas podemos verificar que existe uma grade enviesamento na distribuição  das variáveis distancia, número de comentários e preço, indicando um valor 
-#de skewness bastante elevado. A solução mais adequada para lidar com este problema será usar o logaritmo dos valores observados nestas variáveis, não podendo  descurar mais tarde de reverter o logaritmo 
-#na variavel target após a previsão e antes de fazer o teste ao modelo.  
-# A distribuição da variável stars indica também claramente que tem que ser transformada em categórica ordinal.
+#In first analysis of the histograms, we can verify that there is skewness in the distribution of data in the following variables: distance, number of comments and price. 
+#The most adequate solution to deal with this problem will be to use the logarithm of the values observed in these variables.
+# # The distribution of the stars variable also indicates that it has to be transformed into an ordinal categorical variable.
 
 
-#Tratar valores omissos da variável score review através do método de imputação vizinhos mais próximos
+#Treat missing values of the score review variable using the nearest neighbors imputation method
 set.seed(123)
 summary(data)
 imputdata1 <- data
 imputdata1 <- kNN(data, variable = "score_review", k = 17)
 summary(imputdata1)
 
-#K é escolhido através da raiz quadrada do número de observações totais do dataset 
+#K is chosen through the square root of the number of total observations in the dataset
 summary(imputdata1)
 ncol(imputdata1) 
 head(imputdata1)
 
 
-#Uma nova coluna de valores lógicos foi adicionada no final do dataset, deve-se proceder a sua remoção 
+#A new column of logical values has been added at the end of the dataset, it must be removed
 imputdata1 <- subset(imputdata1,select = price:stars)
 head(imputdata1)
 summary(imputdata1)
 data <- imputdata1
 
-#Confirmar a não existência de NA's
+#Confirm that there is no NA's
 apply(data,2,function(x) sum(is.na(x)))
 
-#Visualizar novamente o Histograma de todas as variáveis numéricas após o tratamento de dados omissos   
+#View again the Histogram of all numeric variables after the treatment of missing data   
 data[-c(3,4,5)] %>%
   keep(is.numeric) %>% 
   gather() %>% 
   ggplot(aes(value)) +
   facet_wrap(~ key, scales = "free") +
   geom_histogram()
-#As variáveis preço, distancia e numero de comentários não tem uma distribuição normal  e parecem indicar a existência de outliers,
-#mais tarde vamos proceder ao tratamento deste problema.
+#variables price, distance and number of comments do not have a normal distribution and seem to indicate the existence of outliers,
+#later we will proceed with the treatment of this problem.
 
 
-
-## Visualização da variavel estrelas com ggplot -geometric density
+## Visualization of the variable stars with ggplot -geometric density
 ggplot(data, aes(stars)) + geom_density(adjust = 1/5)
-#A analise de densidade da variavel sugere a transformação da variável em categórica ordinal 
-#Alguns alojamentos não possuem classificação por estrelas, de forma a resolver este problema procede-sede seguida a criação 
-#de contentores [0, 1-3, 4-5] de forma a converter a variavel estrelas em categórica ordinal     
-#Criar categorias :
+#The density analysis of the variable suggests the transformation of the variable into an ordinal categorical
+#Some accommodations do not have a star rating, in order to solve this problem we proceed with the creation
+#of containers [0, 1-3, 4-5] in order to convert the variable stars into categorical ordinal.
+#Create categories:
 data$stars[data$stars==0]<-'0'
 data$stars[data$stars>=1 & data$stars<=3]<-'1-3'
 data$stars[data$stars>=4 & data$stars<=5]<-'4-5'
